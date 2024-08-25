@@ -1,5 +1,5 @@
 # Black-Box Variational Inference
-Black-box Variational Inference in C-style C++. For more information on the algorithm, read the following paper:
+Black-box Variational Inference in C-style C++. For more information on the algorithm, read the following [paper](https://arxiv.org/abs/1401.0118):
 ```
 @misc{ranganath2013blackboxvariationalinference,
       title={Black Box Variational Inference}, 
